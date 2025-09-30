@@ -1,2 +1,2 @@
-def thingy(thing):
+def thang(thing):
   return thing
