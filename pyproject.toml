@@ -3,8 +3,8 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pythings"
+name = "template"
 version = "0.1.0"
-description = "idk"
+description = "template"
 authors = [{ name="Theobobble" }]
 dependencies = []
