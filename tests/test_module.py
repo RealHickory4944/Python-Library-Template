@@ -1,5 +1,5 @@
 import pytest
-import pythings
+import template
 
 def test_thingy():
   message = "Hello"
